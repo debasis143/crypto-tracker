@@ -3,5 +3,6 @@ pandas
 requests
 matplotlib
 Pillow
+textblob
 python-dotenv
-cryptocmd
+seaborn
