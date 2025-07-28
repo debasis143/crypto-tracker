@@ -2,6 +2,8 @@
 
 A real-time cryptocurrency tracking dashboard built with *Streamlit, **CoinMarketCap API, and **NewsAPI*.
 
+![image alt](https://github.com/debasis143/crypto-tracker/blob/main/screenshort.jpg?raw=true)
+
 ## 🚀 Features
 
 - 🔥 Live prices for top 100 cryptocurrencies
